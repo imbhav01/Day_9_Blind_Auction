@@ -1,4 +1,4 @@
-## Day 8 - Blind Auction
+## Day 9 - Blind Auction
 
 This Project is prepared by using basic python loops and functions, showcasing a positive approach towards app development mindset.
 
